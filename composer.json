@@ -1,0 +1,15 @@
+{
+  "name": "chouaibi/yii2-blacklist-validator",
+  "description": "blacklist (no-in-array) validator for Yii 2",
+  "authors": [
+    {
+      "name": "Hamza chouaibi",
+      "email": "hamza.chouaibi@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "chouaibi\\validators\\": ""
+    }
+  }
+}
